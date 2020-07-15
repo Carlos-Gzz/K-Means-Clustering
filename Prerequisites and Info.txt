@@ -1,0 +1,19 @@
+You need to install the packages/modules:
+Numpy, matplotlib.pyplot and pandas.
+Important note: In order to properly visualize the results in a graph it is important to import matplotlib.pyplot (not only matplotlib).
+
+Anaconda install code run:
+
+Pandas:
+conda install -c anaconda pandas 
+
+Numpy:
+conda install -c anaconda numpy
+
+Matplotlib:
+conda install -c conda-forge matplotlib
+
+
+
+In this example I find my way into the proper way of clustering with the K-Means method. Results are shown in numbers and in a visual-representation colored graph.
+R is awesome, but back in the days when I wanted to expand my knowledge from R to Python I took an amazing self taught Machine Learning course called 'ML A-Z'; the course tutors are Kirill Eremenko and Hadelin de Ponteves. And as of today I keep doing different projects with the previous knowledge learned.
